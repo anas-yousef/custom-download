@@ -2,9 +2,9 @@
 A Google Chrome Extension that helps you organize your download files inside your default Download folder.
 
 Used the awesome boilerplate from: 
-
+[link]: https://react.christmas/2020/12
 ```
-[https://react.christmas/2020/12]
+[link]
 ```
 
 Navigate to the project directory and install the dependencies.
