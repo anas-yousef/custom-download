@@ -4,7 +4,7 @@ A Google Chrome Extension that helps you organize your download files inside you
 Used the awesome boilerplate from: 
 
 ```
-https://react.christmas/2020/12
+[https://react.christmas/2020/12]
 ```
 
 Navigate to the project directory and install the dependencies.
