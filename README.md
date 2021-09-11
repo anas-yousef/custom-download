@@ -23,7 +23,7 @@ After the project has been built, a directory named `dist` has been created. You
 4. Click _Load unpacked_.
 5. Select the `dist` directory.
 
-Usage.
+# Usage.
 
 ```
 Once pressed on the extension, you will see two buttons:
