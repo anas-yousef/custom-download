@@ -32,7 +32,7 @@ After the project has been built, a directory named `dist` has been created. You
 Once pressed on the extension, you will see two buttons:
 1. Wallpaper
 2. For phone
-When pressed, the next download be downloaded to C:\Users\*User*\Downloads\wallpaper or \phone.
+When pressed, the next download will be downloaded to C:\Users\*User*\Downloads\wallpaper or \phone.
 After downloading, the default download location will be set back to C:\Users\*User*\Downloads
 ```
 
